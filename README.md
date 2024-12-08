@@ -20,28 +20,28 @@ The analysis bridges historical data with contemporary public health challenges,
 ## Data understanding
 The dataset used in this project provides a comprehensive view of the factors influencing H1N1 vaccine uptake. It includes demographic information, health-related attributes, and perceptions about the vaccine's effectiveness and the risk of contracting H1N1.
 Key variables include:
-1. Demographics: Age, gender, income level, education, and household composition.
-2. Health Attributes: Presence of health insurance, underlying health conditions, and regular interactions with healthcare providers.
-3. Perceptions and Opinions: Respondents' beliefs about vaccine effectiveness, their perceived risk of contracting H1N1, and whether they received a doctor's recommendation for the vaccine.
+- Demographics: Age, gender, income level, education, and household composition.
+- Health Attributes: Presence of health insurance, underlying health conditions, and regular interactions with healthcare providers.
+- Perceptions and Opinions: Respondents' beliefs about vaccine effectiveness, their perceived risk of contracting H1N1, and whether they received a doctor's recommendation for the vaccine.
 The dataset is structured to allow for detailed analysis, enabling the identification of patterns and relationships between these variables and vaccination behavior. Missing data is addressed using advanced imputation techniques, and categorical variables are transformed to facilitate analysis and modeling. By understanding this data, the project uncovers critical insights into the barriers and motivators of vaccine uptake, informing the development of effective public health strategies.
 
 ## EDA
 The Exploratory Data Analysis (EDA) phase of the project focused on uncovering relationships and patterns within the dataset to gain insights into the factors influencing H1N1 vaccine uptake. Key findings include:
 Impact of Doctor Recommendations:
-  1. A strong correlation exists between receiving a doctor’s recommendation and vaccination.
-  2. Individuals with a doctor’s recommendation were significantly more likely to get vaccinated compared to those without one.
+- A strong correlation exists between receiving a doctor’s recommendation and vaccination.
+- Individuals with a doctor’s recommendation were significantly more likely to get vaccinated compared to those without one.
      
 Role of Health Insurance:
- 1. Vaccination rates were higher among individuals with health insurance (27%) compared to those without (11%).
- 2. This highlights healthcare access as a critical barrier to vaccine adoption.
+- Vaccination rates were higher among individuals with health insurance (27%) compared to those without (11%).
+- This highlights healthcare access as a critical barrier to vaccine adoption.
     
 Belief in Vaccine Effectiveness:
- 1. A positive correlation was observed between belief in vaccine effectiveness and vaccination rates:
- 2. Vaccination rates increased progressively with higher belief scores, peaking at 37% for the highest belief level.
+- A positive correlation was observed between belief in vaccine effectiveness and vaccination rates:
+- Vaccination rates increased progressively with higher belief scores, peaking at 37% for the highest belief level.
     
 Perceived Risk of H1N1 Infection:
- 1. Vaccination rates rose with higher perceived risk of contracting H1N1:
- 2. Individuals with the highest risk perception (score of 5) had vaccination rates of approximately 48%.
+- Vaccination rates rose with higher perceived risk of contracting H1N1:
+- Individuals with the highest risk perception (score of 5) had vaccination rates of approximately 48%.
     
 Key Insights from EDA:
 - Doctor Recommendations and Health Coverage: These are critical drivers of vaccination and suggest targeted interventions.
@@ -71,11 +71,11 @@ The insights gained from the modeling phase are valuable for understanding vacci
 ## Conclusion, Reccommendation & Next steps 
 The analysis offers several key recommendations for public health officials at the American Public Health Association (APHA):
 
-1. Promote Doctor Recommendations: Emphasizing the importance of doctor recommendations for the H1N1 vaccine could significantly boost vaccination rates.
+- Promote Doctor Recommendations: Emphasizing the importance of doctor recommendations for the H1N1 vaccine could significantly boost vaccination rates.
 
-2. Ensure Vaccine Accessibility: Ensuring that the vaccine is accessible to all individuals, regardless of their health insurance status, is essential.
+- Ensure Vaccine Accessibility: Ensuring that the vaccine is accessible to all individuals, regardless of their health insurance status, is essential.
 
-3. Prioritize Educational Outreach: Focusing on educational initiatives that address perceptions of vaccine effectiveness and the perceived risk of H1N1 could positively influence vaccination uptake.
+- Prioritize Educational Outreach: Focusing on educational initiatives that address perceptions of vaccine effectiveness and the perceived risk of H1N1 could positively influence vaccination uptake.
 
 However, it's important to acknowledge the limitations in predicting H1N1 vaccination status, particularly in fully eliminating false negatives. Additionally, there may be unaccounted factors in the survey data that could impact vaccination prediction.
 
