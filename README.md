@@ -51,14 +51,17 @@ Decision Tree Classifier:
 - Achieved an Area Under the Curve (AUC) score of 0.84, indicating a good balance between true positives and false positives.
 - Struggled with low precision and F1 scores, reflecting challenges in accurately predicting true vaccination behavior while minimizing false positives.
 - The model demonstrated no signs of overfitting, making it suitable for generalization.
+  
 Logistic Regression:
 - Also achieved an AUC score of 0.84, matching the Decision Tree’s ability to discriminate between vaccinated and non-vaccinated individuals.
 - Precision and F1 scores remained low, consistent with the Decision Tree model.
 - The simplicity and interpretability of Logistic Regression provide valuable insights into the relationship between predictors and vaccine uptake.
+  
 Key Takeaways:
 - Both models performed better than the baseline, particularly in identifying influential factors driving vaccine uptake.
 - While the AUC scores are strong, the models face challenges in precision and recall, indicating room for improvement.
 - Future efforts will focus on refining these models, exploring additional features, and experimenting with advanced algorithms to improve predictive performance.
+  
 The insights gained from the modeling phase are valuable for understanding vaccination behavior and guiding public health strategies
 ## Conclusion, Reccommendation & Next steps 
 The analysis offers several key recommendations for public health officials at the American Public Health Association (APHA):
