@@ -9,13 +9,13 @@ This research analyzes the National Flu Survey (NHFS 2009) to predict H1N1 vacci
 The analysis bridges historical data with contemporary public health challenges, highlighting the ongoing importance of understanding factors that influence individual vaccination decisions.
 
 ## Project objectives 
-1. Prediction: Build machine learning models to forecast individuals' likelihood of receiving the H1N1 vaccine using demographic, socio-economic, and attitudinal data.
+1.Prediction: Build machine learning models to forecast individuals' likelihood of receiving the H1N1 vaccine using demographic, socio-economic, and attitudinal data.
 
-2. Influential Factors Analysis: Identify key factors influencing H1N1 vaccine uptake, such as doctor recommendations, health insurance status, perceptions of vaccine effectiveness, and perceived risk of contracting H1N1.
+2.Influential Factors Analysis: Identify key factors influencing H1N1 vaccine uptake, such as doctor recommendations, health insurance status, perceptions of vaccine effectiveness, and perceived risk of contracting H1N1.
 
-3. Model Performance Evaluation: Compare the effectiveness of various machine learning algorithms, including Decision Tree Classifier and Logistic Regression, in accurately predicting H1N1 vaccination behavior.
+3.Model Performance Evaluation: Compare the effectiveness of various machine learning algorithms, including Decision Tree Classifier and Logistic Regression, in accurately predicting H1N1 vaccination behavior.
 
-4. Insights and Recommendations: Analyze the results of the predictive models to provide actionable insights for public health officials and policymakers aimed at improving vaccination rates.
+4.Insights and Recommendations: Analyze the results of the predictive models to provide actionable insights for public health officials and policymakers aimed at improving vaccination rates.
 
 ## Data understanding
 The dataset used in this project provides a comprehensive view of the factors influencing H1N1 vaccine uptake. It includes demographic information, health-related attributes, and perceptions about the vaccine's effectiveness and the risk of contracting H1N1.
