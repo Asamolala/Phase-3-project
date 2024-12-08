@@ -1,4 +1,5 @@
 # Data-Driven Insights for Predicting Vaccine Uptake
+![image link](https://github.com/Asamolala/Phase-3-project/blob/main/photo_1.jpg)
 ## Project overview
 The "Data-Driven Insights for Predicting Vaccine Uptake" project focuses on understanding the factors that influence individuals' decisions to receive the H1N1 vaccine. Using a structured data science workflow, the project examines survey data to identify key predictors of vaccination behavior and develops predictive models to support public health strategies.
 This study addresses the critical need to improve vaccine adoption rates by identifying barriers and enablers of vaccination. It highlights the role of healthcare accessibility, doctor recommendations, and public perceptions of vaccine effectiveness and risk. Insights gained from this analysis are intended to guide public health interventions, enhance educational outreach, and inform policy-making to promote equitable vaccine uptake.
