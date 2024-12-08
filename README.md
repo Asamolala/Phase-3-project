@@ -27,21 +27,26 @@ The dataset is structured to allow for detailed analysis, enabling the identific
 
 ## EDA
 The Exploratory Data Analysis (EDA) phase of the project focused on uncovering relationships and patterns within the dataset to gain insights into the factors influencing H1N1 vaccine uptake. Key findings include:
-- Impact of Doctor Recommendations:
+Impact of Doctor Recommendations:
   1. A strong correlation exists between receiving a doctor’s recommendation and vaccination.
   2. Individuals with a doctor’s recommendation were significantly more likely to get vaccinated compared to those without one.
--Role of Health Insurance:
+     
+Role of Health Insurance:
  1. Vaccination rates were higher among individuals with health insurance (27%) compared to those without (11%).
  2. This highlights healthcare access as a critical barrier to vaccine adoption.
-- Belief in Vaccine Effectiveness:
+    
+Belief in Vaccine Effectiveness:
  1. A positive correlation was observed between belief in vaccine effectiveness and vaccination rates:
  2. Vaccination rates increased progressively with higher belief scores, peaking at 37% for the highest belief level.
-- Perceived Risk of H1N1 Infection:
+    
+Perceived Risk of H1N1 Infection:
  1. Vaccination rates rose with higher perceived risk of contracting H1N1:
  2. Individuals with the highest risk perception (score of 5) had vaccination rates of approximately 48%.
+    
 Key Insights from EDA:
 - Doctor Recommendations and Health Coverage: These are critical drivers of vaccination and suggest targeted interventions.
 - Perception Management: Public health campaigns can benefit from addressing vaccine skepticism and improving awareness of H1N1 risks and vaccine benefits.
+  
 The insights from EDA informed the subsequent modeling phase by highlighting the most influential variables and guiding feature engineering. These findings provide actionable directions for improving vaccination rates and shaping public health initiatives.
 
 ## Modelling
